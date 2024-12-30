@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "95343554383",
+    "project_id": "poket-chef",
+    "storage_bucket": "poket-chef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95343554383:android:d7332bf7c93252ec31df3a",
+        "android_client_info": {
+          "package_name": "com.poketchef.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95343554383-p7i9af21joblru4ghve59a3cc9lbg2an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOHJbOHVmkqCyhMEBF-mg9FZkRVI0aU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95343554383-p7i9af21joblru4ghve59a3cc9lbg2an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95343554383-rlnfmgu1j1j06fumbfchkq7746ov9pnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.silva.poketchef"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95343554383:android:5e501f5e9be9537831df3a",
+        "android_client_info": {
+          "package_name": "com.silva.pocketchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95343554383-p7i9af21joblru4ghve59a3cc9lbg2an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOHJbOHVmkqCyhMEBF-mg9FZkRVI0aU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95343554383-p7i9af21joblru4ghve59a3cc9lbg2an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95343554383-rlnfmgu1j1j06fumbfchkq7746ov9pnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.silva.poketchef"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

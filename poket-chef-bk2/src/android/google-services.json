@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95343554383",
+    "project_id": "poket-chef",
+    "storage_bucket": "poket-chef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95343554383:android:5e501f5e9be9537831df3a",
+        "android_client_info": {
+          "package_name": "com.silva.pocketchef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOHJbOHVmkqCyhMEBF-mg9FZkRVI0aU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
